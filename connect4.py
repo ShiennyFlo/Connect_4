@@ -10,7 +10,7 @@ PLAYER_COLORS = ["red", "yellow"]
 QUESTIONS = [
     ("Apa nama perusahaan dari sistem operasi Windows?", ["Microsoft", "Microscope"], 1),
     ("Yang manakah merupakan salah satu jenis ancaman siber?", ["Fishing", "Phishing"], 2),
-    ("Apa itu kepanjangan dari AI?", ["Artificial Intercity", "Artificial Intelligence"], 2),
+    ("Apa itu kepanjangan dari AI?", ["Artificial Instrument", "Artificial Intelligence"], 2),
     ("Alat komunikasi yang sering digunakan rakyat +62 adalah?", ["Line", "Whatsapp"], 2),
     ("Apa kerugian dari keamanan siber yang kurang baik?", ["Dompet mudah dicuri", "Data privasi tersebar"], 2),
     ("Bahasa komputer biasanya juga disebut dengan?", ["Coding", "Compute"], 1),
